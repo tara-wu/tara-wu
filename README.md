@@ -2,9 +2,9 @@
 - 👀 I’m interested in GIS and spatial data science!
 - 🌱 I’m currently learning R and Python.
 - 💞️ I’m looking to collaborate on anything worth the challenge!
-- 📫 How to reach me: text or [email](mailto:wutara@proton.me).
+- 📫 How to reach me: [email](mailto:wutara@proton.me).
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love to run.
+- ⚡ Fun fact: I love to run and help foster animals.
 
 <!---
 tara-wu/tara-wu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
