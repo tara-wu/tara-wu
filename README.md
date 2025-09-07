@@ -2,7 +2,7 @@
 - 👀 I’m interested in GIS and spatial data science!
 - 🌱 I’m currently learning R and Python.
 - 💞️ I’m looking to collaborate on anything worth the challenge!
-- 📫 How to reach me: text or [email] (mailto: wutara@proton.me).
+- 📫 How to reach me: text or [email] (mailto:wutara@proton.me).
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to run.
 
